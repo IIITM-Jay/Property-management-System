@@ -12,6 +12,6 @@ the prespectives i.e., from admin and maintainers point of view as well as from 
 
 ## Road Map
 <p align="center">
-<img width="600" height="500" src="road_map.png" width="400" height="400"> 
+<img width="600" height="500" src="road_map.png"> 
   </p>
 
