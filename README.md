@@ -11,5 +11,5 @@ overall sytem is so developed to enhance the simplicity while managing the prope
 the prespectives i.e., from admin and maintainers point of view as well as from the real world users.
 
 ## Road Map
-<img align="center" src="road_map.png" width="200" height="400"></img>
+<img align="center" src="road_map.png" width="400" height="400"> </img>
 
