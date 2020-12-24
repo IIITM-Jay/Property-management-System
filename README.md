@@ -10,3 +10,6 @@ on various properties they have booked and be able to track the operations perfo
 overall sytem is so developed to enhance the simplicity while managing the properties from both
 the prespectives i.e., from admin and maintainers point of view as well as from the real world users.
 
+##Road Map
+<img align="center" src="road_map.png">
+
