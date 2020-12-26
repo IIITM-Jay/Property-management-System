@@ -1,0 +1,32 @@
+.title{
+    text-align: center;
+}
+table{
+    width: 95%;
+    margin: auto;
+    text-align: center;
+    box-shadow: 12px 12px 20px 6px #2e6da4;
+    font-size: 15px;
+}
+table tr:nth-child(odd){
+    background: #B8CAE4
+}
+ 
+table tr:nth-child(even){
+    background: #dae5f4
+ 
+}
+.success{
+list-style: none;
+background-color: #2e6da4;
+color: white;
+box-shadow: 12px 12px 12px #e61c66;
+text-align: center;
+}
+
+.flt-search #div_id_Property_type, 
+.flt-search #div_id_location{
+    float: left;
+    width: 200px;
+    margin-right: 20px;
+}
