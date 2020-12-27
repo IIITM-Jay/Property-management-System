@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{DUMMY:1}
+S.~R.Elmasri, {\em Database Systems: Models,Languages,Design and Application
+  Programming}.
+\newblock 6 Edition: Pearson Education India, 2013.
+
+\bibitem{DUMMY:2}
+A.~Silberschatz, {\em Database Systems Concepts}.
+\newblock 6 Edition: Tata McGraw Hill, 2019.
+
+\bibitem{DUMMY:5}
+O.~M. T, {\em Principles Of Distributed Database Systems}.
+\newblock 3 Edition: Springer Exclusive(Cbs), 2012.
+
+\bibitem{DUMMY:3}
+C.~J. Date, {\em An Introduction to database systems}.
+\newblock 8 Edition: Pearson, 2003.
+
+\bibitem{DUMMY:4}
+C.~B.~T. connolly, {\em Database Systems: Apractical Approach to
+  Design,Implementation and Management}.
+\newblock 6 Edition: Pearson, 2014.
+
+\end{thebibliography}
