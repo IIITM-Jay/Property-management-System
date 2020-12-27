@@ -1,4 +1,4 @@
-![Read the manual](https://img.shields.io/badge/read-the%20manual-blue)
+[![Read the manual](https://img.shields.io/badge/read-the%20manual-blue)](https://drive.google.com/file/d/1fYfPtsnYsmvmAFY8uaJ9S8ApwlAV5MZY/view?usp=sharing)
 ![](https://img.shields.io/badge/installations-Prerequisities-important)
 ![](https://img.shields.io/badge/download-project%20report-success)
 
