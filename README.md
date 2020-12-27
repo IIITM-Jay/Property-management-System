@@ -1,4 +1,4 @@
-![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)
+![Read the manual](https://img.shields.io/badge/read-the%20manual-blue)
 ![](https://img.shields.io/badge/preinstallments-Prerequisities-important)
 
 # Property Management System with multiple layers [Django] (Full-Stack)
