@@ -1,0 +1,20 @@
+<html>
+<title>
+	sms
+</title>
+<body>
+	<center><br></br>
+		<p><h1>Django sms </h1></p></center><br>
+		<center><form method="POST">
+		{% csrf_token %}
+			<input type ="text" name ="username" placeholder="Username" size="45">
+			<input type ="password" name ="password" placeholder="Password" size="45"><br>	
+			<br><input type ="text" name ="sendto" placeholder="Send to" size="45"><br>
+			<br><textarea rows="20" cols="80" type="text" name="message" placeholder="your message"></textarea><br>
+<input type="submit" value="Send"><br>
+</form>	
+</center>	
+</body>
+</html>
+
+
