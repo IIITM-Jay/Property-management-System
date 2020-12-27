@@ -1,4 +1,4 @@
-![Read the manual](https://img.shields.io/badge/read-the%20manual-blue)
+[![Read the manual](https://img.shields.io/badge/read-the%20manual-blue)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/blob/main/manual/manual.md)
 [![](https://img.shields.io/badge/installations-Prerequisities-important)](https://github.com/IIITM-Jay/Property-management-System-with-multiple-layers-Django-Full-Stack-/blob/main/requirements.txt)
 [![](https://img.shields.io/badge/download-project%20report-success)](https://drive.google.com/file/d/1fYfPtsnYsmvmAFY8uaJ9S8ApwlAV5MZY/view?usp=sharing)
 
