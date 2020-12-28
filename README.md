@@ -1,7 +1,7 @@
 [![Read the manual](https://img.shields.io/badge/read-the%20manual-blue)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/blob/main/manual/manual.md)
 [![](https://img.shields.io/badge/installations-Prerequisities-important)](https://github.com/IIITM-Jay/Property-management-System-with-multiple-layers-Django-Full-Stack-/blob/main/requirements.txt)
 [![](https://img.shields.io/badge/download-project%20report-success)](https://drive.google.com/file/d/1fYfPtsnYsmvmAFY8uaJ9S8ApwlAV5MZY/view?usp=sharing)
-
+[![](https://img.shields.io/badge/basics of%20django-dark green)](https://www.djangoproject.com/)
 
 # Property Management System with multiple layers [Django] (Full-Stack)
 The project dealt with managing different layers of property on the basis of different parameters they acquire and can support with the facilities they accomplish, in order to ease with the searching and booking operations. The project is implemented using django due to its various incorporated features that includes a gist describing the creation of applications from underlying concepts to implementation without taking much time.
