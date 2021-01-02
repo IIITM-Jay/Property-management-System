@@ -1,0 +1,73 @@
+ {% load staticfiles %} 
+<!doctype html>
+<html lang="en">
+  <head>
+<style>
+p.oblique {
+  font-style: oblique;
+}
+</style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Jekyll v3.8.5">
+    <title>Property Managemant System</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/navbar-fixed/">
+
+  
+<link href="{% static 'css/min.css' %}" rel="stylesheet">
+
+
+   
+    <!-- Custom styles for this template -->
+
+    <link href="{% static 'css/fixed.css' %}" rel="stylesheet">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+  <a class="navbar-brand" href="/admin">Admin</a>
+  <!--<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>-->
+ <!-- <div class="collapse navbar-collapse" id="navbarCollapse">-->
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="dash">Users</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/Property_list">Property List</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/Property_entry">Property Entry</a>
+      </li>
+	 
+    </ul>
+    {% if request.user.is_authenticated %}
+    <li class="nav-item">
+        <a class="nav-link" href="http://127.0.0.1:8000/accounts/logout">Logout</a>
+      </li>
+{% endif %}
+  </div>
+</nav>
+
+<main role="main" class="container">
+  <div class="jumbotron">
+    <h1 class = "oblique"><center>Property Management</center></h1>
+    <p class="lead">Welcome to your Search for property...</br>Your search for property begins and ends here... </br>Your search is important for us!!!</p>
+    <a class="btn btn-lg btn-primary" href="http://127.0.0.1:8000/accounts/login/" role="button">Login &raquo;</a>
+    <div class="col-sm-3">
+  {% block title %}
+{% endblock %}
+ 
+{% block content %}
+{% endblock %}
+</div>
+  </div>
+  
+</main>
+<script src="{% static 'js/min.js' %} integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="/docs/4.3/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="{% static 'js/bundle.js' %} integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script></body>
+</html>
+
