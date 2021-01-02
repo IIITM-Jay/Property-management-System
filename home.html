@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    <title>Property Managemant System</title>
+</head>
+<body>
+<header>
+
+<div class="main">
+</div>
+<div class="title">
+<h1>Your Search for Property Begins and Ends here....
+</h1>
+</div>
+<div class="search-box">
+<form action="http://127.0.0.1:8000/front">
+<input class="search-txt" type="text" name="" placeholder="search">
+<a class="search-btn" href="http://127.0.0.1:8000/base">
+<i class ="fas fa-search"></i>
+
+</a>
+</from>
+</div>
+
+</header>
+<style>
+*{
+margin: 0;
+padding: 0;
+font-family: Century Gothic;
+}
+
+header
+{
+background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/static/img/7.jpg);
+height:100vh;
+background-size:cover;
+background-position:center;
+
+}
+.title{
+
+position:absolute;
+text-align:center;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+}
+
+.title h1{
+color:  #fefe10;
+font-size:40px;
+font-weight: bold; 
+}
+ul{
+float:right;
+list-style-type:none;
+margin-top:25px;
+}
+ul li
+{
+display:inline-block;
+}
+ul li a {
+text-decoration:none;
+color:#fff;
+padding:5px 20px;
+border: 1px solid transparent;
+transition:0.6s ease
+}
+ul li a:hover{
+background-color:powderblue;
+color:#000;
+}
+.main{
+max-width: 1200px;
+margin:auto;
+}
+ul li.active a{
+background-color:powderblue;
+color:#000;
+}
+
+.search-box{
+position:absolute;
+top:65%;
+left:50%;
+transform:translate(-50%,-50%);
+background:powderblue;
+height:40px;
+border-radius:40px;
+padding:10px;
+justify-content:center;
+align-items:center;
+}
+.search-box:hover > .search-txt{
+width:240px;
+padding:0 6px;
+}
+
+.search-box:hover > .search-btn{
+background:#000;
+}
+.search-btn{
+color:#e84118;
+float:right;
+width:40px;
+height:40px;
+border-radius:50%;
+background:#2f3640;
+display:flex;
+justify-content:center;
+align-items:center;
+transition:0.4s;
+}
+.h1 {
+  height: 100%;
+  width: 100%;
+  
+
+  align-items: center;
+  justify-content: center;
+}
+
+.search-txt
+{
+border:none;
+background:none;
+outline:none;
+float:left;
+padding:0;
+color:black;
+font-size:16px;
+transition:0.4s;
+line-height:40px;
+width:0px;
+}
+
+</style>
+
+
+</body>
+</html>
