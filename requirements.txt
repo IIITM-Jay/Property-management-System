@@ -1,3 +1,3 @@
-Django>=3.0.0
+Django==1.8
 python-setuptools
 virtualenv
