@@ -1,5 +1,7 @@
 # Data Flow Diagram
 
+<img width="700" height="535" src="/images/flow-sequence.png"> 
+
 The system starts operating from its
 initial stage of authenticating the user from entering into the system whether it is an admin staff,
 or the superuser, or the real world user. Each one of the participating members must login and
