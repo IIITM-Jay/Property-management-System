@@ -13,3 +13,7 @@ properties are:
 * Delete Properties
 * Edit the Prperties
 These are the basic functionalities supported by the system.
+
+<p align="center">
+<img width="700" height="535" src="/images/UML.png"> 
+  </p>
