@@ -10,7 +10,7 @@
 | Manual Worklow | [![Manual workflow](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Manual%20workflow/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Manual%20workflow/badge.svg) |
 | New Contributors | [![Greetings](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Greetings/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Greetings/badge.svg) |
 # Property Management System with multiple layers [Django] (Full-Stack)
-The project dealt with managing different layers of property on the basis of different parameters they acquire and can support with the facilities they accomplish, in order to ease with the searching and booking operations. The project is implemented using django due to its various incorporated features that includes a gist describing the creation of applications from underlying concepts to implementation without taking much time.
+The project deals with managing different layers of property on the basis of different parameters they acquire and can support with the facilities they accomplish, in order to ease with the searching and booking operations. The project is implemented using django due to its various incorporated features that includes a gist describing the creation of applications from underlying concepts to implementation without taking much time.
 
 ## Features
 * The system has been designed to maintain the classic three layered architecture of the fundamental DBMS model.
