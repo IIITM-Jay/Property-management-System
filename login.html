@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html>
+<div class="flex-wrap">
+    <fieldset>
+        <form action novalidate>
+            <input type="radio" name="rg" id="sign-in" checked/>
+            <input type="radio" name="rg" id="sign-up" />
+            <input type="radio" name="rg" id="reset" />        
+
+            <label for="sign-in">Sign in</label>
+            <label for="sign-up">Sign up</label>
+            <label for="reset">Reset</label>  
+
+            <input class="sign-up sign-in reset" type="email" placeholder="Email" />
+            <input class="sign-up sign-in" type="password" placeholder ="Password" />
+            <input class="sign-up" type="password" placeholder ="Repeat Password" />
+            <button>Submit</button>        
+            
+              </form>
+    </fieldset>
+</div>
+
+<style>
+/* base.scss */
+ {
+  box-sizing: border-box;
+}
+
+* {
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: inherit;
+}
+
+*:before, *:after {
+  box-sizing: inherit;
+}
+
+table {
+  width: 100%;
+}
+
+iframe {
+  border: 0;
+  height: 100%;
+  width: 100%;
+}
+
+button {
+  background: transparent;
+  border: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+       appearance: none;
+}
+
+small {
+  display: block;
+}
+
+fieldset {
+  margin: 0;
+}
+
+input,
+fieldset {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  min-width: 0;
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+          appearance: none;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 100%;
+}
+
+svg {
+  display: block;
+  pointer-events: none;
+}
+
+a {
+  color: inherit;
+  display: block;
+  text-decoration: none;
+}
+
+p > a {
+  display: inline;
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+}
+
+ul, ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* type.scss */
+html {
+  font-size: 62.5%;
+  line-height: 1.5;
+}
+
+body, h1, h2, h3, h4, h5, h6, label, button, input, select, textarea, li, a, strong, i, span, th, td {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.6rem;
+  font-weight: 300;
+  text-rendering: optimizeSpeed;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.125;
+  margin-top: 0;
+  text-rendering: optimizeLegibility;
+}
+
+p + p {
+  margin-top: 1.5em;
+}
+
+/* mixins.scss */
+/* z_index.scss */
+/* utility.scss */
+.u-m0 {
+  margin: 0;
+}
+
+.u-mt0 {
+  margin-top: 0;
+}
+
+.u-mr0 {
+  margin-right: 0;
+}
+
+.u-mb0 {
+  margin-bottom: 0;
+}
+
+.u-ml0 {
+  margin-left: 0;
+}
+
+.u-m05 {
+  margin: 5px;
+}
+
+.u-m1 {
+  margin: 10px;
+}
+
+.u-mt1 {
+  margin-top: 10px;
+}
+
+.u-mr1 {
+  margin-right: 10px;
+}
+
+.u-mb1 {
+  margin-bottom: 10px;
+}
+
+.u-ml1 {
+  margin-left: 10px;
+}
+
+.u-m2 {
+  margin: 20px;
+}
+
+.u-mt2 {
+  margin-top: 20px;
+}
+
+.u-mr2 {
+  margin-right: 20px;
+}
+
+.u-mb2 {
+  margin-bottom: 20px;
+}
+
+.u-ml2 {
+  margin-left: 20px;
+}
+
+.u-p0 {
+  padding: 0;
+}
+
+.u-pt0 {
+  padding-top: 0;
+}
+
+.u-pr0 {
+  padding-right: 0;
+}
+
+.u-pb0 {
+  padding-bottom: 0;
+}
+
+.u-pl0 {
+  padding-left: 0;
+}
+
+.u-p1 {
+  padding: 10px;
+}
+
+.u-pt1 {
+  padding-top: 12px;
+}
+
+.u-pr1 {
+  padding-right: 12px;
+}
+
+.u-pb1 {
+  padding-bottom: 12px;
+}
+
+.u-pl1 {
+  padding-left: 12px;
+}
+
+.u-p2 {
+  padding: 20px;
+}
+
+.u-pt2 {
+  padding-top: 20px;
+}
+
+.u-pr2 {
+  padding-right: 20px;
+}
+
+.u-pb2 {
+  padding-bottom: 20px;
+}
+
+.u-pl2 {
+  padding-left: 20px;
+}
+
+.u-db {
+  display: block;
+}
+
+.u-show {
+  display: block !important;
+}
+
+.u-show-dib {
+  display: inline-block !important;
+}
+
+.u-dn {
+  display: none;
+}
+
+.u-hide {
+  display: none !important;
+}
+
+.u-hide-off-canvas {
+  position: absolute;
+  top: 0;
+  transform: translateX(3000px);
+}
+
+.u-dib {
+  display: inline-block;
+}
+
+.u-fl {
+  float: left;
+}
+
+.u-full-height {
+  min-height: 100vh;
+}
+
+.u-full-width-break-container {
+  margin-left: calc(-50vw + 50%);
+  width: 100vw;
+}
+
+.u-relative {
+  position: relative;
+}
+
+.u-absolute {
+  position: absolute;
+}
+
+.u-fixed {
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  position: fixed;
+}
+
+.u-pos-t0 {
+  top: 0;
+}
+
+.u-pos-r0 {
+  right: 0;
+}
+
+.u-pos-b0 {
+  bottom: 0;
+}
+
+.u-pos-l0 {
+  left: 0;
+}
+
+.u-pos-tr0 {
+  top: 0;
+  right: 0;
+  bottom: auto;
+  left: auto;
+}
+
+.u-pos-tl0 {
+  top: 0;
+  right: auto;
+  bottom: auto;
+  left: 0;
+}
+
+.u-pos-br0 {
+  top: auto;
+  right: 0;
+  bottom: 0;
+  left: auto;
+}
+
+.u-pos-bl0 {
+  top: auto;
+  right: auto;
+  bottom: 0;
+  left: 0;
+}
+
+.u-pos-tr10 {
+  top: 10px;
+  right: 10px;
+}
+
+.u-pos-tl10 {
+  top: 10px;
+  left: 10px;
+}
+
+.u-pos-br10 {
+  bottom: 10px;
+  right: 10px;
+}
+
+.u-pos-bl10 {
+  bottom: 10px;
+  left: 10px;
+}
+
+.u-pos-c {
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  right: 0;
+}
+
+.u-b-radius {
+  border-radius: 3px;
+}
+
+.u-b-radius-round {
+  border-radius: 50%;
+}
+
+.u-b-radius-big {
+  border-radius: 40px;
+}
+
+.u-b-radius-top {
+  border-radius: 3px 3px 0 0;
+}
+
+.u-b-radius-bottom {
+  border-radius: 0 0 3px 3px;
+}
+
+.u-b-radius-right {
+  border-radius: 0 3px 3px 0;
+}
+
+.u-b-radius-left {
+  border-radius: 3px 0 0 3px;
+}
+
+.u-oh {
+  overflow: hidden;
+}
+
+.u-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.u-div-c {
+  margin: 0 auto;
+}
+
+.u-text-c {
+  text-align: center;
+}
+
+.u-text-r {
+  text-align: right;
+}
+
+.u-cursor-hand {
+  cursor: pointer;
+}
+
+.u-text-small {
+  font-size: 1.2rem;
+}
+
+.u-text-disclaimer {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.u-btn-wrapper {
+  padding: 15px 12px;
+  transition: transform 0.5s;
+  z-index: 2;
+}
+
+/* grid.scss */
+.grid-u,
+[class*=grid-u-] {
+  display: inline-block;
+  letter-spacing: normal;
+  vertical-align: top;
+  word-spacing: normal;
+  zoom: 1;
+}
+
+.grid-r {
+  word-spacing: -0.34em;
+}
+
+.opera-only :-o-prefocus,
+.grid-r {
+  /* Opera 12 on Windows needs word-spacing. The ".opera-only" selector is used to prevent actual prefocus styling and is not required in markup. */
+  word-spacing: -0.43em;
+}
+
+@media (min-width: 25em) {
+  .grid-u-sm-1-5 {
+    width: 20%;
+  }
+
+  .grid-u-sm-1-4,
+.grid-u-sm-3-12 {
+    width: 25%;
+  }
+
+  .grid-u-sm-1-3,
+.grid-u-sm-4-12 {
+    width: 33.3333%;
+  }
+
+  .grid-u-sm-2-5 {
+    width: 40%;
+  }
+
+  .grid-u-sm-1-2,
+.grid-u-sm-6-12 {
+    width: 50%;
+  }
+
+  .grid-u-sm-3-5 {
+    width: 60%;
+  }
+
+  .grid-u-sm-2-3,
+.grid-u-sm-4-6,
+.grid-u-sm-8-12 {
+    width: 66.6667%;
+  }
+
+  .grid-u-sm-3-4,
+.grid-u-sm-9-12 {
+    width: 75%;
+  }
+
+  .grid-u-sm-1 {
+    width: 100%;
+  }
+}
+@media (min-width: 34.375em) {
+  .grid-u-md-1-5 {
+    width: 20%;
+  }
+
+  .grid-u-md-1-4,
+.grid-u-md-3-12 {
+    width: 25%;
+  }
+
+  .grid-u-md-1-3,
+.grid-u-md-4-12 {
+    width: 33.3333%;
+  }
+
+  .grid-u-md-2-5 {
+    width: 40%;
+  }
+
+  .grid-u-md-1-2,
+.grid-u-md-6-12 {
+    width: 50%;
+  }
+
+  .grid-u-md-3-5 {
+    width: 60%;
+  }
+
+  .grid-u-md-2-3,
+.grid-u-md-4-6,
+.grid-u-md-8-12 {
+    width: 66.6667%;
+  }
+
+  .grid-u-md-3-4,
+.grid-u-md-9-12 {
+    width: 75%;
+  }
+
+  .grid-u-md-1 {
+    width: 100%;
+  }
+}
+@media (min-width: 46.875em) {
+  .grid-u-lg-1-5 {
+    width: 20%;
+  }
+
+  .grid-u-lg-1-4,
+.grid-u-lg-3-12 {
+    width: 25%;
+  }
+
+  .grid-u-lg-1-3,
+.grid-u-lg-4-12 {
+    width: 33.3333%;
+  }
+
+  .grid-u-lg-2-5 {
+    width: 40%;
+  }
+
+  .grid-u-lg-1-2,
+.grid-u-lg-6-12 {
+    width: 50%;
+  }
+
+  .grid-u-lg-3-5 {
+    width: 60%;
+  }
+
+  .grid-u-lg-2-3,
+.grid-u-lg-4-6,
+.grid-u-lg-8-12 {
+    width: 66.6667%;
+  }
+
+  .grid-u-lg-3-4,
+.grid-u-lg-9-12 {
+    width: 75%;
+  }
+
+  .grid-u-lg-1 {
+    width: 100%;
+  }
+}
+@media (min-width: 62.5em) {
+  .grid-u-xl-1-5 {
+    width: 20%;
+  }
+
+  .grid-u-xl-1-4,
+.grid-u-xl-3-12 {
+    width: 25%;
+  }
+
+  .grid-u-xl-1-3,
+.grid-u-xl-4-12 {
+    width: 33.3333%;
+  }
+
+  .grid-u-xl-2-5 {
+    width: 40%;
+  }
+
+  .grid-u-xl-1-2,
+.grid-u-xl-6-12 {
+    width: 50%;
+  }
+
+  .grid-u-xl-3-5 {
+    width: 60%;
+  }
+
+  .grid-u-xl-2-3,
+.grid-u-xl-4-6,
+.grid-u-xl-8-12 {
+    width: 66.6667%;
+  }
+
+  .grid-u-xl-3-4,
+.grid-u-xl-9-12 {
+    width: 75%;
+  }
+
+  .grid-u-xl-1 {
+    width: 100%;
+  }
+}
+/* icons.scss */
+@font-face {
+  font-family: "comeon-iconset";
+  src: url("https://dl.dropboxusercontent.com/u/26351585/Comeon/comeon-iconfamily.woff2") format("woff2");
+  src: url("https://dl.dropboxusercontent.com/u/26351585/Comeon/comeon-iconfamily.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+.btn--error {
+  /* overrides for Error State */
+}
+
+.btn--in-progress {
+  /* overrides for In Progress State */
+}
+
+.no-touchevents .btn.btn--main-cta:hover {
+  transform: scale(1.03);
+}
+.no-touchevents .btn.btn--secondary:hover {
+  transform: none;
+}
+
+input[type=radio] {
+  position: fixed;
+  left: -100px;
+}
+
+input:not([type=radio]) {
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: #fff;
+  display: block;
+  transition: 300ms ease;
+  border-radius: 7px;
+  border: 0;
+  max-height: 0;
+  margin: 0;
+  padding: 0 10px;
+  overflow: hidden;
+  width: 250px;
+  opacity: 0;
+  font-size: 16px;
+  text-align: center;
+  outline: 0;
+}
+
+[id=sign-in]:checked ~ input.sign-in,
+[id=sign-up]:checked ~ input.sign-up,
+[id=reset]:checked ~ input.reset {
+  max-height: 40px;
+  padding: 10px;
+  margin: 10px 0;
+  opacity: 1;
+}
+
+button {
+  width: 250px;
+  height: 40px;
+  border-radius: 7px;
+  background-color: #16a085;
+  font-size: 0;
+}
+button:before {
+  font-size: 16px;
+}
+
+[id=sign-in]:checked ~ button:before {
+  content: "Sign In";
+}
+
+[id=sign-up]:checked ~ button:before {
+  content: "Sign Up";
+}
+
+[id=reset]:checked ~ button:before {
+  content: "Reset password";
+}
+
+label {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  font-weight: 900;
+  cursor: pointer;
+  color:  #cc3300;
+  transition: 300ms ease;
+  width: calc(100% / 3 - 4px);
+}
+label:after {
+  content: "";
+  border: 10px solid transparent;
+  position: absolute;
+  bottom: -10px;
+  left: calc(50% - 10px);
+  transition: inherit;
+}
+
+[id=sign-in]:checked ~ [for=sign-in],
+[id=sign-up]:checked ~ [for=sign-up],
+[id=reset]:checked ~ [for=reset] {
+  color: #fff;
+}
+[id=sign-in]:checked ~ [for=sign-in]:after,
+[id=sign-up]:checked ~ [for=sign-up]:after,
+[id=reset]:checked ~ [for=reset]:after {
+  border-bottom-color: #fff;
+}
+
+.flex-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 500px;
+  width: 1250px;
+  text-align: center;
+flex: 200%;
+}
+
+body {
+  
+
+
+height: 600px;
+	/* max-height: 600px; */
+	width: 1000px;
+	background-color: hsla(200,40%,30%,.4);
+	background-image:		
+		url('https://78.media.tumblr.com/cae86e76225a25b17332dfc9cf8b1121/tumblr_p7n8kqHMuD1uy4lhuo1_540.png'), 
+		url('https://78.media.tumblr.com/66445d34fe560351d474af69ef3f2fb0/tumblr_p7n908E1Jb1uy4lhuo1_1280.png'),
+		url('https://78.media.tumblr.com/8cd0a12b7d9d5ba2c7d26f42c25de99f/tumblr_p7n8kqHMuD1uy4lhuo2_1280.png'),
+		url('https://78.media.tumblr.com/5ecb41b654f4e8878f59445b948ede50/tumblr_p7n8on19cV1uy4lhuo1_1280.png'),
+		url('https://78.media.tumblr.com/28bd9a2522fbf8981d680317ccbf4282/tumblr_p7n8kqHMuD1uy4lhuo3_1280.png');
+	background-repeat: repeat-x;
+	background-position: 
+		0 20%,
+		0 100%,
+		0 50%,
+		0 100%,
+		0 0;
+	background-size: 
+		2500px,
+		800px,
+		500px 200px,
+		1000px,
+		400px 260px;
+	animation: 50s para infinite linear;
+	}
+
+@keyframes para {
+	100% {
+		background-position: 
+			-5000px 20%,
+			-800px 95%,
+			500px 50%,
+			1000px 100%,
+			400px 0;
+		}
+	}
+}
+</style>
+</body>
+</html>
