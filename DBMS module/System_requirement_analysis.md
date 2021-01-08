@@ -5,7 +5,7 @@ model is used to form commonality relationships between ER models as a basis for
 integration.
 
 <p align="center">
-<img width="700" height="535" src="images/ER-model.png"> 
+<img width="700" height="535" src="/images/ER-model.png"> 
   </p>
 
 ## Entitities
