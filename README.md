@@ -24,3 +24,55 @@ The project deals with managing different layers of property on the basis of dif
 <img width="600" height="535" src="images/road_map.png"> 
   </p>
 
+## Contributors 🌟 
+
+Thanks goes to these wonderful people ✨✨:
+<table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/IIITM-Jay">
+				<img src="https://avatars2.githubusercontent.com/u/65283880?v=4" width="100px" alt="" />
+				<br /> <sub><b>IIITM-Jay</b></sub>
+			</a>
+			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=IIITM-Jay">
+                👑 Author
+            </a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/iiitmjay">
+				<img src="https://avatars2.githubusercontent.com/u/48219530?v=4" width="100px" alt="" />
+				<br /> <sub><b>iiitmjay</b></sub>
+			</a>
+			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=iiitmjay">
+                 💻
+            </a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/Antsthebul">
+				<img src="https://avatars1.githubusercontent.com/u/56587872?v=4" width="100px" alt="" />
+				<br /> <sub><b>Antsthebul</b></sub>
+			</a>
+			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Antsthebul">
+                💻
+            </a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/Nandini-Jha">
+				<img src="https://avatars0.githubusercontent.com/u/76875859?v=4" width="100px" alt="" />
+				<br /> <sub><b>Nandini-Jha</b></sub>
+			</a>
+			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Nandini-Jha">
+                💻
+            </a>
+		</td>
+		<td align="center">
+			<a href="https://github.com/Siddharthmishraweb">
+				<img src="https://avatars0.githubusercontent.com/u/72328255?v=4" width="100px" alt="" />
+				<br /> <sub><b>Siddharthmishraweb</b></sub>
+			</a>
+			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Siddharthmishraweb">
+                💻
+            </a>
+		</td>
+	</tr>
+</table>
