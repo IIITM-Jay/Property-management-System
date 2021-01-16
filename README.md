@@ -34,7 +34,7 @@ Thanks goes to these wonderful people ✨✨:
 				<img src="https://avatars2.githubusercontent.com/u/65283880?v=4" width="100px" alt="" />
 				<br /> <sub><b>IIITM-Jay</b></sub>
 			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=IIITM-Jay">
+			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=IIITM-Jay">
                 👑 👀 💬 Author
             </a>
 		</td>
@@ -43,7 +43,7 @@ Thanks goes to these wonderful people ✨✨:
 				<img src="https://avatars2.githubusercontent.com/u/48219530?v=4" width="100px" alt="" />
 				<br /> <sub><b>iiitmjay</b></sub>
 			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=iiitmjay">
+			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=iiitmjay">
                  💻
             </a>
 		</td>
@@ -52,7 +52,7 @@ Thanks goes to these wonderful people ✨✨:
 				<img src="https://avatars1.githubusercontent.com/u/56587872?v=4" width="100px" alt="" />
 				<br /> <sub><b>Antsthebul</b></sub>
 			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Antsthebul">
+			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Antsthebul">
                 🐛
             </a>
 		</td>
@@ -61,7 +61,7 @@ Thanks goes to these wonderful people ✨✨:
 				<img src="https://avatars0.githubusercontent.com/u/76875859?v=4" width="100px" alt="" />
 				<br /> <sub><b>Nandini-Jha</b></sub>
 			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Nandini-Jha">
+			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Nandini-Jha">
                 💻 👀
             </a>
 		</td>
@@ -70,7 +70,7 @@ Thanks goes to these wonderful people ✨✨:
 				<img src="https://avatars0.githubusercontent.com/u/72328255?v=4" width="100px" alt="" />
 				<br /> <sub><b>Siddharthmishraweb</b></sub>
 			</a>
-			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Siddharthmishraweb">
+			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Siddharthmishraweb">
                 📖
             </a>
 		</td>
