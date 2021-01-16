@@ -35,7 +35,7 @@ Thanks goes to these wonderful people ✨✨:
 				<br /> <sub><b>IIITM-Jay</b></sub>
 			</a>
 			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=IIITM-Jay">
-                👑 Author
+                👑 👀 💬 Author
             </a>
 		</td>
 		<td align="center">
@@ -53,7 +53,7 @@ Thanks goes to these wonderful people ✨✨:
 				<br /> <sub><b>Antsthebul</b></sub>
 			</a>
 			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Antsthebul">
-                💻
+                🐛
             </a>
 		</td>
 		<td align="center">
@@ -62,7 +62,7 @@ Thanks goes to these wonderful people ✨✨:
 				<br /> <sub><b>Nandini-Jha</b></sub>
 			</a>
 			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Nandini-Jha">
-                💻
+                💻 👀
             </a>
 		</td>
 		<td align="center">
@@ -71,7 +71,7 @@ Thanks goes to these wonderful people ✨✨:
 				<br /> <sub><b>Siddharthmishraweb</b></sub>
 			</a>
 			<br /> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Siddharthmishraweb">
-                💻
+                📖
             </a>
 		</td>
 	</tr>
