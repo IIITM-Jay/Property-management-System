@@ -1,7 +1,7 @@
 # Data Flow Diagram
 
 
-<img width="650" height="700" src="../images/flow-sequensce.png" alt="Flow sequence diagram" border= "7" style= "display: block; margin-left: auto; margin-right: auto; ">
+<kbd><img width="650" height="700" src="../images/flow-sequensce.png" alt="Flow sequence diagram" style="border: 4px solid black" style= "display: block; margin-left: auto; margin-right: auto; "></kbd>
 
 
 The system starts operating from its
