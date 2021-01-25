@@ -20,7 +20,7 @@ The project deals with managing different layers of property on the basis of dif
 * The overall sytem is so developed to enhance the simplicity while managing the properties from both the prespectives i.e., from admin and maintainers point of view as well as from the real world users.
 
 ## Road Map
-<p align="center'>
+<p align="center">
 <img width="600" height="600" src="images/road_map.png"> 
   </p><br>
 <p align="center">Road Map for Property Management System</p>
