@@ -22,7 +22,7 @@ The project deals with managing different layers of property on the basis of dif
 ## Road Map
  <table class="image">
 <caption align="bottom">Road Map for Property Management System</caption>
-<tr><td><width="600" height="535" src="images/road_map.png"></td></tr>
+<tr><td><img width="600" height="535" src="images/road_map.png"></td></tr>
 </table>
 
 
