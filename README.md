@@ -2,6 +2,25 @@
 [![](https://img.shields.io/badge/installations-Prerequisities-important)](https://github.com/IIITM-Jay/Property-management-System-with-multiple-layers-Django-Full-Stack-/blob/main/requirements.txt)
 [![](https://img.shields.io/badge/download-project%20report-success)](https://drive.google.com/file/d/1fYfPtsnYsmvmAFY8uaJ9S8ApwlAV5MZY/view?usp=sharing)
 [![](https://img.shields.io/badge/basics-of%20django-brightgreen)](https://www.djangoproject.com/)
+FORMAT: 1A
+HOST: http://www.google.com
+
+# Tables
+Notes API is a *short texts saving* service similar to its physical paper presence on your table.
+
+<center>
+
+ | Test | Status |
+| :--- | :--- |
+| Github build | [![CI](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/CI/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3ACI) |
+| CodeQL | [![CodeQL](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/CodeQL/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3ACodeQL) |
+| Manual Worklow | [![Manual workflow](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Manual%20workflow/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3A%22Manual+workflow%22)|
+| New Contributors | [![Greetings](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Greetings/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3AGreetings) |
+
+</center>
+
+</template>
+</div>
 <div align="center">
 <table>
 <thead>
