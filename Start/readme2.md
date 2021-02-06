@@ -2,7 +2,7 @@
 The various aspects an users expects from the system and which is my one of the main ideal outcomes of the project can be viewed from the following figure:
 
 <p align=center>
-<img src="Start\user perspective.png" height=390px width=390px>
+<img src="https://github.com/smriti1313/Property-management-System-Django-Full-Stack-/blob/main/Start/user%20perspective.png" height=400px width=400px>
 </p>
 
 <br>
