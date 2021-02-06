@@ -6,7 +6,7 @@ The various aspects an users expects from the system and which is my one of the 
 </p>
 
 <br>
-&ensp; The above figure portrays the 
+&ensp;&ensp; The above figure portrays the 
 exibilities and accessibilities provided to the users in order to
 perform various operations on the properties included in the databases. These are:
 
