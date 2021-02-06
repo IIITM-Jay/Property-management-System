@@ -5,7 +5,7 @@ The various aspects an users expects from the system and which is my one of the 
 <img src="https://github.com/smriti1313/Property-management-System-Django-Full-Stack-/blob/main/Start/user%20perspective.png" height=400px width=400px>
 </p>
 
-<br>
+
 &ensp;&ensp; The above figure portrays the 
 exibilities and accessibilities provided to the users in order to
 perform various operations on the properties included in the databases. These are:
