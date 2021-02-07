@@ -79,4 +79,4 @@ Thanks goes to these wonderful people ✨✨:
 	</tr>
 </table>
 
-[Lobster](https://fonts.googleapis.com/css2?family=Lobster&display=swap)
+[Lobster]: https://fonts.googleapis.com/css2?family=Lobster&display=swap
