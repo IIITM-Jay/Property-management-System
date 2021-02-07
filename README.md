@@ -23,7 +23,7 @@ The project deals with managing different layers of property on the basis of dif
 <p align="center">
 <img width="600" height="600" src="images/road_map.png"> 
   </p><br>
-<p align="center">Road Map for Property Management System</p>
+<p align="center"><b>Road Map for Property Management System</b></p>
 
 ## Contributors 🌟 
 
