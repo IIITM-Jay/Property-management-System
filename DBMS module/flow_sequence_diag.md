@@ -1,6 +1,8 @@
 # Data Flow Diagram
 
-<img width="700" height="535" src="../images/flow-sequensce.png"> 
+
+<kbd><img width="650" height="700" src="../images/flow-sequensce.png" alt="Flow sequence diagram" style="border: 4px solid black" style="display: block; margin-left: auto; margin-right: auto; "></kbd>
+
 
 The system starts operating from its
 initial stage of authenticating the user from entering into the system whether it is an admin staff,
