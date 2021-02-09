@@ -23,8 +23,7 @@ The project deals with managing different layers of property on the basis of dif
 <p align="center">
 <img width="600" height="600" src="images/road_map.png"> 
   </p><br>
-<p align="center">
-<span style="color:#fff; font-family: [Lobster], cursive; font-size: 4em;"><b>Road Map for Property Management System</span></p>
+<p align="center"><b><i>Road Map for Property Management System</i> </p>
 
 ## Contributors 🌟 
 
@@ -79,4 +78,3 @@ Thanks goes to these wonderful people ✨✨:
 	</tr>
 </table>
 
-[Lobster]: https://fonts.googleapis.com/css2?family=Lobster&display=swap
