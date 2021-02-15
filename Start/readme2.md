@@ -1,9 +1,15 @@
 ## 4.3.3   Users Perspective: The Front View 
 The various aspects an users expects from the system and which is my one of the main ideal outcomes of the project can be viewed from the following figure:
 
-![](https://github.com/smriti1313/Property-management-System-Django-Full-Stack-/blob/main/Start/user%20perspective.png)
+<p align=center>
+<img src="user_perspective.png" height=400px >
+</p>
+<br>
+<p align="center">
+  Figure 4.4: Operations offered to the users
+</p>
+<br>
 
-  
    The above figure portrays the exibilities and accessibilities provided to the users in order to perform various operations on the properties included in the databases. These are:  
   
  **1. _View:_**   The users can be able to properly view the property database along with its full description in order to perform the next task of searching of the desired assets.  
