@@ -4,8 +4,7 @@
 [![](https://img.shields.io/badge/basics-of%20django-brightgreen)](https://www.djangoproject.com/)
 [![](https://img.shields.io/badge/%F0%9F%96%A5-FRONTEND%20VIEW-blue)]()
 [![](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-BACK--END%20VIEW-green)]()
-FORMAT: 1A
-HOST: http://www.google.com
+
 
 # Tables
 Notes API is a *short texts saving* service similar to its physical paper presence on your table.
