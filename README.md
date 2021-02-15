@@ -6,39 +6,14 @@
 [![](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-BACK--END%20VIEW-green)]()
 
 
-# Tables
-Notes API is a *short texts saving* service similar to its physical paper presence on your table.
+| Test | Status |
+| :--- | :--- |
+| Github build | [![CI](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/CI/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3ACI) |
+| CodeQL | [![CodeQL](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/CodeQL/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3ACodeQL) |
+| Manual Worklow | [![Manual workflow](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Manual%20workflow/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3A%22Manual+workflow%22)|
+| New Contributors | [![Greetings](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Greetings/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3AGreetings) |
 
-<div align="center">
-<table>
-<thead>
-  <tr>
-    <th>Test</th>
-    <th>Status</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Github build</td>
-    <td><img src="https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/CI/badge.svg"></td>
-  </tr>
-  <tr>
-    <td>CodeQL</td>
-    <td><img src="https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/CodeQL/badge.svg"></td>
-  </tr>
-  <tr>
-    <td>Manual Worklow</td>
-    <td><img src="https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Manual%20workflow/badge.svg"></td>
-  </tr>
-  <tr>
-    <td>New Contributors</td>
-    <td><img src="https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/Greetings/badge.svg"></td>
-  </tr>
-</tbody>
-</table>
-</div>
-
-
+# 
   
 # Property Management System with multiple layers [Django] (Full-Stack)
 The project deals with managing different layers of property on the basis of different parameters they acquire and can support with the facilities they accomplish, in order to ease with the searching and booking operations. The project is implemented using django due to its various incorporated features that includes a gist describing the creation of applications from underlying concepts to implementation without taking much time.
