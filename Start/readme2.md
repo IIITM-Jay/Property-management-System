@@ -1,4 +1,4 @@
-## 4.3.3   Users Perspective: The Front View 
+## Users Perspective: The Front View 
 The various aspects an users expects from the system and which is my one of the main ideal outcomes of the project can be viewed from the following figure:
 
 <p align=center>
@@ -6,7 +6,7 @@ The various aspects an users expects from the system and which is my one of the 
 </p>
 <br>
 <p align="center">
-  Figure 4.4: Operations offered to the users
+   Operations offered to the users
 </p>
 <br>
 
