@@ -34,6 +34,13 @@ The project deals with managing different layers of property on the basis of dif
   </p><br>
 <p align="center"><b><i>Road Map for Property Management System</i> </p>
 
+## ❤️ Project Admin
+
+|                                     <a href="https://github.com/IIITM-Jay"><img src="https://avatars.githubusercontent.com/u/65283880?v=4" width=150px height=150px /></a>                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      **[Jay Dev Jha](https://github.com/IIITM-Jay)**                                                                                       |
+
+
 ## Contributors 🌟 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
