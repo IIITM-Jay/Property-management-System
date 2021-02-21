@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-BACK--END%20VIEW-green)]()
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Test | Status |
@@ -41,6 +41,7 @@ The project deals with managing different layers of property on the basis of dif
 <table>
   <tr>
     <td align="center"><a href="https://the-awesome-profile-site.netlify.app/"><img src="https://avatars.githubusercontent.com/u/60662775?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amit Kumar Mishra</b></sub></a><br /><a href="#content-Amit366" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Antsthebul"><img src="https://avatars.githubusercontent.com/u/56587872?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Antsthebul</b></sub></a><br /><a href="https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/issues?q=author%3AAntsthebul" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://linkedin.com/in/himanshu-here/"><img src="https://avatars.githubusercontent.com/u/65963997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Himanshu</b></sub></a><br /><a href="#content-himanshu007-creator" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/smriti1313"><img src="https://avatars.githubusercontent.com/u/52624997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Smriti</b></sub></a><br /><a href="#content-smriti1313" title="Content">🖋</a></td>
   </tr>
