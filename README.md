@@ -1,4 +1,7 @@
 [![Read the manual](https://img.shields.io/badge/read-the%20manual-blue)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/blob/main/manual/manual.md)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![](https://img.shields.io/badge/installations-Prerequisities-important)](https://github.com/IIITM-Jay/Property-management-System-with-multiple-layers-Django-Full-Stack-/blob/main/requirements.txt)
 [![](https://img.shields.io/badge/download-project%20report-success)](https://drive.google.com/file/d/1fYfPtsnYsmvmAFY8uaJ9S8ApwlAV5MZY/view?usp=sharing)
 [![](https://img.shields.io/badge/basics-of%20django-brightgreen)](https://www.djangoproject.com/)
@@ -34,6 +37,19 @@ The project deals with managing different layers of property on the basis of dif
 ## Contributors 🌟 
 
 Thanks goes to these wonderful people ✨✨:
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/smriti1313"><img src="https://avatars.githubusercontent.com/u/52624997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Smriti</b></sub></a><br /><a href="#content-smriti1313" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <table>
 	<tr>
 		<td align="center">
