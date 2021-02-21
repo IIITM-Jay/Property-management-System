@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-BACK--END%20VIEW-green)]()
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack/#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Test | Status |
