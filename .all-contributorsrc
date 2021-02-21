@@ -34,6 +34,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "samir-0711",
+      "name": "Samir Rajesh Prajapati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68433936?v=4",
+      "profile": "https://github.com/samir-0711",
+      "contributions": [
+        "design",
+        "doc"
+      ]
     }
   ],
   "projectName": "Property-management-System-Django-Full-Stack-",
