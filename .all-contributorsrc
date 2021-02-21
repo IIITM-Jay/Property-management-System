@@ -34,6 +34,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Antsthebul",
+      "name": "Antsthebul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56587872?v=4",
+      "profile": "https://github.com/Antsthebul",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "Property-management-System-Django-Full-Stack-",
