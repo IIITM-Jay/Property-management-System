@@ -41,6 +41,15 @@
         "userTesting",
         "tutorial"
       ]
+    },
+    {
+      "login": "Antsthebul",
+      "name": "Antsthebul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56587872?v=4",
+      "profile": "https://github.com/Antsthebul",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
