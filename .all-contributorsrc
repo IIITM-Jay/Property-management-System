@@ -41,6 +41,16 @@
         "userTesting",
         "tutorial"
       ]
+    },
+    {
+      "login": "96RadhikaJadhav",
+      "name": "Radhika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56536997?v=4",
+      "profile": "https://github.com/96RadhikaJadhav",
+      "contributions": [
+        "design",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
