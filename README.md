@@ -1,4 +1,7 @@
 [![Read the manual](https://img.shields.io/badge/read-the%20manual-blue)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/blob/main/manual/manual.md)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![](https://img.shields.io/badge/installations-Prerequisities-important)](https://github.com/IIITM-Jay/Property-management-System-with-multiple-layers-Django-Full-Stack-/blob/main/requirements.txt)
 [![](https://img.shields.io/badge/download-project%20report-success)](https://drive.google.com/file/d/1fYfPtsnYsmvmAFY8uaJ9S8ApwlAV5MZY/view?usp=sharing)
 [![](https://img.shields.io/badge/basics-of%20django-brightgreen)](https://www.djangoproject.com/)
@@ -29,3 +32,23 @@ The project deals with managing different layers of property on the basis of dif
   </p><br>
 <p align="center"><b><i>Road Map for Property Management System</i> </p>
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Nandini-Jha"><img src="https://avatars.githubusercontent.com/u/76875859?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nandini-Jha</b></sub></a><br /><a href="#projectManagement-Nandini-Jha" title="Project Management">📆</a> <a href="https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/pulls?q=is%3Apr+reviewed-by%3ANandini-Jha" title="Reviewed Pull Requests">👀</a> <a href="#mentoring-Nandini-Jha" title="Mentoring">🧑‍🏫</a> <a href="#maintenance-Nandini-Jha" title="Maintenance">🚧</a> <a href="#talk-Nandini-Jha" title="Talks">📢</a> <a href="#design-Nandini-Jha" title="Design">🎨</a> <a href="#ideas-Nandini-Jha" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
