@@ -2,8 +2,12 @@
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
-  "commit": false,
+"imageSize": 100,
+  "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
+  "skipCi": false,
+  "contributorsSortAlphabetically": true,
+  
   "contributors": [
     {
       "login": "smriti1313",
@@ -24,10 +28,9 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
   "projectName": "Property-management-System-Django-Full-Stack-",
   "projectOwner": "IIITM-Jay",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "commitConvention": "none"
 }
