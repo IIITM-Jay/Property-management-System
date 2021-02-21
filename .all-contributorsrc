@@ -2,12 +2,11 @@
   "files": [
     "README.md"
   ],
-"imageSize": 100,
+  "imageSize": 100,
   "contributorsPerLine": 7,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
   "skipCi": false,
   "contributorsSortAlphabetically": true,
-  
   "contributors": [
     {
       "login": "smriti1313",
@@ -23,6 +22,15 @@
       "name": "Himanshu",
       "avatar_url": "https://avatars.githubusercontent.com/u/65963997?v=4",
       "profile": "http://linkedin.com/in/himanshu-here/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Amit366",
+      "name": "Amit Kumar Mishra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60662775?v=4",
+      "profile": "https://the-awesome-profile-site.netlify.app/",
       "contributions": [
         "content"
       ]
