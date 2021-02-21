@@ -1,0 +1,30 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Nandini-Jha",
+      "name": "Nandini-Jha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76875859?v=4",
+      "profile": "https://github.com/Nandini-Jha",
+      "contributions": [
+        "projectManagement",
+        "review",
+        "mentoring",
+        "maintenance",
+        "talk",
+        "design",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Property-management-System-Django-Full-Stack-",
+  "projectOwner": "IIITM-Jay",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
