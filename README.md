@@ -37,19 +37,7 @@ The project deals with managing different layers of property on the basis of dif
 ## Contributors 🌟 
 
 Thanks goes to these wonderful people ✨✨:
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/smriti1313"><img src="https://avatars.githubusercontent.com/u/52624997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Smriti</b></sub></a><br /><a href="#content-smriti1313" title="Content">🖋</a></td>
-  </tr>
-</table>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 <table>
 	<tr>
 		<td align="center">
