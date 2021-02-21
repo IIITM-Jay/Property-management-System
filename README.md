@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-BACK--END%20VIEW-green)]()
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Test | Status |
@@ -39,54 +39,13 @@ The project deals with managing different layers of property on the basis of dif
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-	<tr>
-		<td align="center">
-			<a href="https://github.com/IIITM-Jay">
-				<img src="https://avatars2.githubusercontent.com/u/65283880?v=4" width="100px" alt="" />
-				<br /> <sub><b>IIITM-Jay</b></sub>
-			</a>
-			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=IIITM-Jay">
-                👑 👀 💬 Author
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/iiitmjay">
-				<img src="https://avatars2.githubusercontent.com/u/48219530?v=4" width="100px" alt="" />
-				<br /> <sub><b>iiitmjay</b></sub>
-			</a>
-			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=iiitmjay">
-                 💻
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/Antsthebul">
-				<img src="https://avatars1.githubusercontent.com/u/56587872?v=4" width="100px" alt="" />
-				<br /> <sub><b>Antsthebul</b></sub>
-			</a>
-			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Antsthebul">
-                🐛
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/Nandini-Jha">
-				<img src="https://avatars0.githubusercontent.com/u/76875859?v=4" width="100px" alt="" />
-				<br /> <sub><b>Nandini-Jha</b></sub>
-			</a>
-			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Nandini-Jha">
-                💻 👀
-            </a>
-		</td>
-		<td align="center">
-			<a href="https://github.com/Siddharthmishraweb">
-				<img src="https://avatars0.githubusercontent.com/u/72328255?v=4" width="100px" alt="" />
-				<br /> <sub><b>Siddharthmishraweb</b></sub>
-			</a>
-			<br/> <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Siddharthmishraweb">
-                📖
-            </a>
-		</td>
-	</tr>
+  <tr>
+    <td align="center"><a href="https://the-awesome-profile-site.netlify.app/"><img src="https://avatars.githubusercontent.com/u/60662775?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Amit Kumar Mishra</b></sub></a><br /><a href="#content-Amit366" title="Content">🖋</a></td>
+    <td align="center"><a href="http://linkedin.com/in/himanshu-here/"><img src="https://avatars.githubusercontent.com/u/65963997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Himanshu</b></sub></a><br /><a href="#content-himanshu007-creator" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/smriti1313"><img src="https://avatars.githubusercontent.com/u/52624997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Smriti</b></sub></a><br /><a href="#content-smriti1313" title="Content">🖋</a></td>
+  </tr>
 </table>
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
