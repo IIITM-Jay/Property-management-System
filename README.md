@@ -36,8 +36,6 @@ The project deals with managing different layers of property on the basis of dif
 
 ## Contributors 🌟 
 
-Thanks goes to these wonderful people ✨✨:
-
 <table>
 	<tr>
 		<td align="center">
