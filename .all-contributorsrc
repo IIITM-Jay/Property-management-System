@@ -19,7 +19,9 @@
         "design",
         "ideas",
         "business",
-        "platform"
+        "platform",
+        "eventOrganizing",
+        "tutorial"
       ]
     },
     {
@@ -49,6 +51,21 @@
       "profile": "https://the-awesome-profile-site.netlify.app/",
       "contributions": [
         "content"
+      "login": "himanshu007-creator",
+      "name": "Himanshu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65963997?v=4",
+      "profile": "http://linkedin.com/in/himanshu-here/",
+      "contributions": [
+        "content"
+        ]
+       },
+       {
+      "login": "smriti1313",
+      "name": "Smriti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52624997?v=4",
+      "profile": "https://github.com/smriti1313",
+      "contributions": [
+        "doc"
       ]
     }
   ],
