@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-BACK--END%20VIEW-green)]()
 | Test | Status |
 | :--- | :--- |
+| SL Scan | [![SL Scan](https://github.com/IIITM-Jay/Property-management-System/actions/workflows/shiftleft-analysis.yml/badge.svg)](https://github.com/IIITM-Jay/Property-management-System/actions/workflows/shiftleft-analysis.yml) |
 | OSSAR | [![OSSAR](https://github.com/IIITM-Jay/Property-management-System/actions/workflows/ossar-analysis.yml/badge.svg)](https://github.com/IIITM-Jay/Property-management-System/actions/workflows/ossar-analysis.yml) |
 | Github build | [![CI](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/CI/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3ACI) |
 | CodeQL | [![CodeQL](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/workflows/CodeQL/badge.svg)](https://github.com/IIITM-Jay/Property-management-System-Django-Full-Stack-/actions?query=workflow%3ACodeQL) |
